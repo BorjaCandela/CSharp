@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OTLNSJbnDvSpDN7/n7xsjmfuOo9olHiyNE4knuxgF/1OHNuUzrFeos588G0xtdbAZi8yWX2jF7UwmNNFy9bh2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\X05308CA\\source\\repos\\HeartBeath\\HeartBeath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\X05308CA\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\X05308CA\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\X05308CA\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\X05308CA\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\X05308CA\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
