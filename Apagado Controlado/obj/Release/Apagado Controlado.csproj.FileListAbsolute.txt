@@ -1,0 +1,15 @@
+C:\Users\Racu\source\repos\Apagado Controlado\bin\Release\Apagado Controlado.exe.config
+C:\Users\Racu\source\repos\Apagado Controlado\bin\Release\Apagado Controlado.exe
+C:\Users\Racu\source\repos\Apagado Controlado\bin\Release\Apagado Controlado.pdb
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\MainWindow.g.cs
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\App.g.cs
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\Apagado Controlado_MarkupCompile.cache
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\Apagado Controlado_MarkupCompile.lref
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\MainWindow.baml
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\Apagado Controlado.g.resources
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\Apagado_Controlado.Properties.Resources.resources
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\Apagado Controlado.csproj.GenerateResource.cache
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\Apagado Controlado.csproj.CoreCompileInputs.cache
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\Apagado Controlado.exe
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\Apagado Controlado.pdb
+C:\Users\Racu\source\repos\Apagado Controlado\obj\Release\Apagado Controlado.csprojAssemblyReference.cache

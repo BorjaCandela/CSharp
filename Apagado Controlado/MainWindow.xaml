@@ -1,0 +1,20 @@
+﻿<Window x:Class="Apagado_Controlado.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Apagado_Controlado"
+        mc:Ignorable="d"
+        Title="APAGADOR" Height="191" Width="224.5" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="buttonApagar" Content="APAGAR" HorizontalAlignment="Left" Margin="111,111,0,0" VerticalAlignment="Top" Width="90" Height="32" Click="buttonApagarClick"/>
+        <Button x:Name="buttonAnular" Content="ANULAR" HorizontalAlignment="Left" Margin="10,111,0,0" VerticalAlignment="Top" Width="90" Height="32" Click="buttonAnularClick"/>
+        <Label Content="DIAS" HorizontalAlignment="Left" Margin="36,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="HORAS" HorizontalAlignment="Left" Margin="23,36,0,0" VerticalAlignment="Top"/>
+        <Label Content="MINUTOS" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxDias" HorizontalAlignment="Left" Height="23" Margin="81,13,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120" AutomationProperties.IsRequiredForForm="True" AutomationProperties.HelpText="&quot;Inserta el numero de dias&quot;"/>
+        <TextBox x:Name="textBoxHoras" HorizontalAlignment="Left" Height="23" Margin="81,39,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120" AutomationProperties.IsRequiredForForm="True" AutomationProperties.HelpText="&quot;Inserta el numero de horas&quot;"/>
+        <TextBox x:Name="textBoxMinutos" HorizontalAlignment="Left" Height="23" Margin="81,65,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120" AutomationProperties.IsRequiredForForm="True" AutomationProperties.HelpText="&quot;Inserta el numero de minutos&quot;"/>
+
+    </Grid>
+</Window>
